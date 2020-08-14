@@ -139,3 +139,24 @@ body {
   font-size: 104px;
   color: #FF8000;
 }
+
+.contact_us {
+  margin-top: 100px;
+  background-image: url("../img/contact_background.jpg");
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page_content_contact {
+  margin-bottom: 90px;
+  color: #FF8000;;
+}
+
+.smol {
+  width: 250px;
+  display: inline-block;
+}
