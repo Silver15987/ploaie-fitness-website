@@ -1,0 +1,138 @@
+@import url(//db.onlinewebfonts.com/c/0c5e6f133b0b25edfed47aca4ab57676?family=Segoe+UI+Historic);
+
+body, html {
+  height: 100%;
+
+}
+body {
+  background-color: #000;
+}
+.navbar{
+  background-color: #000 !important;
+
+}
+.navbar-nav{
+  float: right;
+}
+.bg_main {
+  margin-top: 55px;
+  background-image: url("../img/background.png");
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title_website {
+  position: relative;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 477px;
+  top 90px;
+}
+
+
+.bg_equipment {
+  margin-top: 55px;
+  background-image: url("../img/background 2.png");
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*.equipment_slide {
+  width: 360px;
+  height: 472px;
+  padding-left: 100px;
+
+}
+*/
+
+.equipment_page_content {
+  position: relative;
+}
+
+.page_content {
+  color: #FF8000;
+  display: inline-block;
+}
+
+.equipment_page_content {
+  bottom: 550px;
+  right: 240px;
+
+}
+
+.equipment_page_h2 {
+  position: relative;
+  color: white;
+  width: 500px;
+  left: 15px;
+}
+
+.equipment_page_p {
+  color: white;
+}
+
+.Testimonial {
+  margin-top: 90px;
+  background-color: #1A1919;
+  /* Full height */
+  height: 75%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.testimonial_card {
+  margin-top: 50px;
+}
+
+.card-img-top {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  margin-top: 25px;
+}
+
+.card {
+  margin-left: 350px;
+  border-radius: 15%;
+   background-color: rgba(0, 0, 0, 0.4);
+}
+
+.card-text {
+  color: white;
+}
+
+.card-heading {
+  color: #FF8000;
+}
+
+.content_page_h2 {
+  color: white;
+}
+
+.Trainer {
+  margin-top: 100px;
+  background-image: url("../img/trainer_background.png");
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.trainer_h1 {
+  padding-top: 25px;
+  font-family: 'Roboto';
+  font-size: 104px;
+  color: #FF8000;
+}
